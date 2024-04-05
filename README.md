@@ -1,4 +1,4 @@
-This repository is based on [NeRF-- repository](https://github.com/ActiveVisionLab/nerfmm?tab=readme-ov-file#environment)
+This repository is based on [NeRF-- repository](https://github.com/ActiveVisionLab/nerfmm)
 
 Dataset required is the modified LLFF dataset used in NeRF--
 
